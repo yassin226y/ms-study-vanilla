@@ -32,7 +32,7 @@
   "entities": {
     "yassst": {
       "source": {
-        "object": "SalesOrderDetail",
+        "object": "SalesLT.SalesOrderDetail",
         "type": "table"
       },
       "graphql": {
