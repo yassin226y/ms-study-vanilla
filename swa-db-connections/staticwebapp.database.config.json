@@ -30,7 +30,7 @@
     }
   },
   "entities": {
-    "yassst-webapp-entity": {
+    "yassst": {
       "source": {
         "object": "SalesLT.SalesOrderDetail",
         "type": "table"
@@ -38,8 +38,8 @@
       "graphql": {
         "enabled": true,
         "type": {
-          "singular": "yassst-webapp-entity",
-          "plural": "yassst-webapp-entities"
+          "singular": "yassst",
+          "plural": "yasssts"
         }
       },
       "rest": {
